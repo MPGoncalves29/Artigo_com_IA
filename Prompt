@@ -1,0 +1,17 @@
+#Prompt utilizado na criação do artigo:
+
+Comporte-se como um escritor de artigos tech e escreva um artigo sobre as graduações de TI e suas diferenças, atendendo as regras abaixo.
+
+{REGRAS}
+
+>No máximo 5 linhas por blocos de explicação
+>Me explique de maneira informal, como se fosse para estudantes do ensino médio querendo qual curso seguir
+>Crie sub títulos e separe por blocos cada parte do artigo
+>Os blocos que serão criados estão abaixo:
+  - Apresentação ao público e introdução ao assunto
+  - Explicação do que é TI
+  - Quais são os cursos de TI presente nas faculdades, citando esses: Ciência da Computação,
+Sistemas de Informação, Engenharia da Computação e Análise e Desenvolvimento de Sistemas, Engenharia de software
+  -Quais são as diferenças entre eles detalhadamente:
+
+OBS: Esse prompt foi usado no Copilot
