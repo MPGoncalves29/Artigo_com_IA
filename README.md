@@ -1,2 +1,4 @@
-# Artigo_com_IA
-Artigo sobre qual faculdade escolher que fiz utilizando três IAs
+# Artigo técnico feito com IAs
+
+Fiz um artigo sobre qual faculdade de TI escolher que fiz utilizando três IAs (Copilot,
+Remove.bg e Lexica.art) como parte de uma das atividades do Santander Bootcamp de fundamentos de IAs generativa. Segue o link do [Artigo](https://web.dio.me/articles/faculdade-de-ti-quais-sao-os-principais-cursos-e-suas-diferencas?back=%2Farticles&page=1&order=oldest).
